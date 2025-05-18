@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EmD6A27AArW1lzQiaiQ6avavw8givZB6eTEiO4wu7l2kv9FtuC0PZmoD111EE6aOV9SwERGSLXfIfQBROVvFMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adria\\OnlineClothingStore\\OnlineClothingStore.Core\\OnlineClothingStore.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\fluentvalidation\\11.3.0\\fluentvalidation.11.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

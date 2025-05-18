@@ -1,0 +1,12 @@
+C:\Users\adria\OnlineClothingStore\OnlineClothingStore.Core\bin\Debug\net8.0\OnlineClothingStore.Core.deps.json
+C:\Users\adria\OnlineClothingStore\OnlineClothingStore.Core\bin\Debug\net8.0\OnlineClothingStore.Core.dll
+C:\Users\adria\OnlineClothingStore\OnlineClothingStore.Core\bin\Debug\net8.0\OnlineClothingStore.Core.pdb
+C:\Users\adria\OnlineClothingStore\OnlineClothingStore.Core\obj\Debug\net8.0\OnlineClothingStore.Core.csproj.AssemblyReference.cache
+C:\Users\adria\OnlineClothingStore\OnlineClothingStore.Core\obj\Debug\net8.0\OnlineClothingStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OnlineClothingStore\OnlineClothingStore.Core\obj\Debug\net8.0\OnlineClothingStore.Core.AssemblyInfoInputs.cache
+C:\Users\adria\OnlineClothingStore\OnlineClothingStore.Core\obj\Debug\net8.0\OnlineClothingStore.Core.AssemblyInfo.cs
+C:\Users\adria\OnlineClothingStore\OnlineClothingStore.Core\obj\Debug\net8.0\OnlineClothingStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\adria\OnlineClothingStore\OnlineClothingStore.Core\obj\Debug\net8.0\OnlineClothingStore.Core.dll
+C:\Users\adria\OnlineClothingStore\OnlineClothingStore.Core\obj\Debug\net8.0\refint\OnlineClothingStore.Core.dll
+C:\Users\adria\OnlineClothingStore\OnlineClothingStore.Core\obj\Debug\net8.0\OnlineClothingStore.Core.pdb
+C:\Users\adria\OnlineClothingStore\OnlineClothingStore.Core\obj\Debug\net8.0\ref\OnlineClothingStore.Core.dll
