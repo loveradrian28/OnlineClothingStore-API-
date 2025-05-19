@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: onlineclothingstore-api
+    env: dotnet
+    buildCommand: dotnet publish -c Release
+    startCommand: dotnet OnlineClothingStore.Api.dll
+    envVars:
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Production
+      - key: ConnectionStrings__DefaultConnection
+        value: Server=sql7.freesqldatabase.com;Port=3306;Database=sql7779587;Uid=sql7779587;Pwd=qzMiFESZ3M;SslMode=None;
+    autoDeploy: true
