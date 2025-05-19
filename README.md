@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# OnlineClothingStore-API-
-=======
 ## OnlineClothingStore - Proyecto de API para una Tienda de Ropa Online
 
 # Descripción
@@ -55,4 +52,3 @@
 
 `cd OnlineClothingStore.Api`
 `dotnet run`
->>>>>>> master

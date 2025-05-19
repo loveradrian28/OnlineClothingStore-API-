@@ -6,6 +6,7 @@ C:\Users\adria\OnlineClothingStore\OnlineClothingStore.Core\obj\Debug\net8.0\Onl
 C:\Users\adria\OnlineClothingStore\OnlineClothingStore.Core\obj\Debug\net8.0\OnlineClothingStore.Core.AssemblyInfoInputs.cache
 C:\Users\adria\OnlineClothingStore\OnlineClothingStore.Core\obj\Debug\net8.0\OnlineClothingStore.Core.AssemblyInfo.cs
 C:\Users\adria\OnlineClothingStore\OnlineClothingStore.Core\obj\Debug\net8.0\OnlineClothingStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\adria\OnlineClothingStore\OnlineClothingStore.Core\obj\Debug\net8.0\OnlineClothingStore.Core.sourcelink.json
 C:\Users\adria\OnlineClothingStore\OnlineClothingStore.Core\obj\Debug\net8.0\OnlineClothingStore.Core.dll
 C:\Users\adria\OnlineClothingStore\OnlineClothingStore.Core\obj\Debug\net8.0\refint\OnlineClothingStore.Core.dll
 C:\Users\adria\OnlineClothingStore\OnlineClothingStore.Core\obj\Debug\net8.0\OnlineClothingStore.Core.pdb

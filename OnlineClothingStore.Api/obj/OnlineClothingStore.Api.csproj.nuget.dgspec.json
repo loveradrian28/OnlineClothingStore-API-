@@ -26,9 +26,6 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\adria\\OnlineClothingStore\\OnlineClothingStore.Core\\OnlineClothingStore.Core.csproj": {
-                "projectPath": "C:\\Users\\adria\\OnlineClothingStore\\OnlineClothingStore.Core\\OnlineClothingStore.Core.csproj"
-              },
               "C:\\Users\\adria\\OnlineClothingStore\\OnlineClothingStore.Data\\OnlineClothingStore.Data.csproj": {
                 "projectPath": "C:\\Users\\adria\\OnlineClothingStore\\OnlineClothingStore.Data\\OnlineClothingStore.Data.csproj"
               }
@@ -36,6 +33,7 @@
           }
         },
         "warningProperties": {
+          "allWarningsAsErrors": true,
           "warnAsError": [
             "NU1605"
           ]
@@ -45,27 +43,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "FluentValidation.AspNetCore": {
-              "target": "Package",
-              "version": "[11.3.0, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.11, )"
             },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+            "MySql.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.10, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.11, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.9.0, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -190,17 +178,11 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.11, )"
             },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+            "MySql.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.10, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.0, )"
             }
           },
           "imports": [
